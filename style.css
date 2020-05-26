@@ -1,0 +1,17 @@
+.profilePic{
+  border-radius: 50%;
+  align-self: center;
+  height: 400px;
+  width: 400px;
+  box-shadow: #084c08 2px 5px 5px ;
+}
+
+body{
+  background-color: #68f9a5;
+  color: #f7f4f4;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-style: monospace;
+}
